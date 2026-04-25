@@ -15,7 +15,7 @@ As a **Computer Science student**, I developed this project to demonstrate my sk
 ## 🛠️ Tech Stack
 - **Language:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
-- **Environment:** Jupyter Notebook / Google Colab
+- **Environment:**  Google Colab
 
 ## 📈 Major Insights
 Based on the analysis in the notebook:
